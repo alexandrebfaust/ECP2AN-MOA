@@ -1,0 +1,32 @@
+20/08/2018
+
+Caracteristicas de 3 linguagens de programação
+
+PHP
+-Destinado à programação "server-side".
+É uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor, capazes de gerar conteúdo dinâmico na World Wide Web. O código é interpretado no lado do servidor pelo módulo PHP, que também gera a página web a ser visualizada no lado do cliente.
+
+
+
+Java
+-A principal liguagem utilizada em sistema operacional mobile Android.
+
+
+Orientação a objetos - Baseado no modelo de Simular
+Portabilidade - Independência de plataforma - "escreva uma vez, execute em qualquer lugar" ("write once, run anywhere")
+Recursos de Rede - Possui extensa biblioteca de rotinas que facilitam a cooperação com protocolos TCP/IP, como HTTP e FTP
+Segurança - Pode executar programas via rede com restrições de execução
+Além disso, podem-se destacar outras vantagens apresentadas pela linguagem:
+
+Sintaxe similar a C/C++/C#
+Facilidades de Internacionalização - Suporta nativamente caracteres Unicode
+Simplicidade na especificação, tanto da linguagem como do "ambiente" de execução (JVM)
+É distribuída com um vasto conjunto de bibliotecas (ou APIs)
+Possui facilidades para criação de programas distribuídos e multitarefa (múltiplas linhas de execução num mesmo programa)
+Desalocação de memória automática por processo de coletor de lixo
+Carga Dinâmica de Código - Programas em Java são formados por uma coleção de classes armazenadas independentemente e que podem ser carregadas no momento de utilização
+
+Paradigma: Orientação a objetos (baseada em classes), estruturada, imperativa, genérica, funcional, reflectiva, concorrente
+
+Python
+-Linguagem focada em indentação de código.
